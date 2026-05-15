@@ -1,0 +1,12 @@
+{
+  "id": "1498840072244559933",
+  "name": "Slowmode Bypass",
+  "color": 0,
+  "hoist": false,
+  "position": 11,
+  "permissions": "8192",
+  "mentionable": false,
+  "managed": false,
+  "icon": null,
+  "unicode_emoji": null
+}

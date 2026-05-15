@@ -1,0 +1,47 @@
+{
+  "id": "1498840086848995388",
+  "name": "transcripts",
+  "kind": "text",
+  "type": 0,
+  "parent_id": null,
+  "position": 2,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "117760"
+    },
+    {
+      "id": "1498839948873302067",
+      "kind": "role",
+      "allow": "0",
+      "deny": "377957125121"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "66560",
+      "deny": "0"
+    },
+    {
+      "id": "1498840066913734807",
+      "kind": "role",
+      "allow": "117760",
+      "deny": "0"
+    },
+    {
+      "id": "1498840068625010778",
+      "kind": "role",
+      "allow": "117760",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

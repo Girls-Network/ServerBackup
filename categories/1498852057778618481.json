@@ -1,0 +1,25 @@
+{
+  "id": "1498852057778618481",
+  "name": "Helper Channels",
+  "position": 10,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "1498839958079668324",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    }
+  ]
+}

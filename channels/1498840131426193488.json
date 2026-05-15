@@ -1,0 +1,29 @@
+{
+  "id": "1498840131426193488",
+  "name": "『💡』suggestions",
+  "kind": "forum",
+  "type": 15,
+  "parent_id": "1498840084957626429",
+  "position": 0,
+  "topic": "Make sure every post here is a suggestion, making unrelated posts will result in a warning if done repeatedly.",
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "3072"
+    },
+    {
+      "id": "1498839982394179644",
+      "kind": "role",
+      "allow": "274877959168",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

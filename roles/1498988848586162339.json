@@ -1,0 +1,12 @@
+{
+  "id": "1498988848586162339",
+  "name": "ServerStats",
+  "color": 0,
+  "hoist": false,
+  "position": 6,
+  "permissions": "1166352",
+  "mentionable": false,
+  "managed": true,
+  "icon": null,
+  "unicode_emoji": null
+}

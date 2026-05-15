@@ -1,0 +1,12 @@
+{
+  "id": "1498840033858420757",
+  "name": "Twitch Pings / YouTube Upload Pings",
+  "color": 0,
+  "hoist": false,
+  "position": 46,
+  "permissions": "0",
+  "mentionable": false,
+  "managed": false,
+  "icon": null,
+  "unicode_emoji": null
+}

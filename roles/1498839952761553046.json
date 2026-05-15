@@ -1,0 +1,12 @@
+{
+  "id": "1498839952761553046",
+  "name": "exclusive perms",
+  "color": 0,
+  "hoist": false,
+  "position": 119,
+  "permissions": "16",
+  "mentionable": false,
+  "managed": false,
+  "icon": null,
+  "unicode_emoji": null
+}

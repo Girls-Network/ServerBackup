@@ -1,0 +1,19 @@
+{
+  "id": "1498852143774306426",
+  "name": "Management Only",
+  "position": 11,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    },
+    {
+      "id": "1498852176125231224",
+      "kind": "role",
+      "allow": "3072",
+      "deny": "268435472"
+    }
+  ]
+}

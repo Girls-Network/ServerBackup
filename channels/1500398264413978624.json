@@ -1,0 +1,35 @@
+{
+  "id": "1500398264413978624",
+  "name": "user-apps",
+  "kind": "text",
+  "type": 0,
+  "parent_id": "1498852143774306426",
+  "position": 3,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    },
+    {
+      "id": "1498839946671292466",
+      "kind": "role",
+      "allow": "3072",
+      "deny": "2251799813693440"
+    },
+    {
+      "id": "1498852176125231224",
+      "kind": "role",
+      "allow": "3072",
+      "deny": "268435472"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

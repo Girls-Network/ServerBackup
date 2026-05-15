@@ -1,0 +1,12 @@
+{
+  "id": "1498840032696602745",
+  "name": "Announcement Pings",
+  "color": 0,
+  "hoist": false,
+  "position": 47,
+  "permissions": "0",
+  "mentionable": false,
+  "managed": false,
+  "icon": null,
+  "unicode_emoji": null
+}

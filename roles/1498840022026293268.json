@@ -1,0 +1,12 @@
+{
+  "id": "1498840022026293268",
+  "name": "image perms bypass",
+  "color": 0,
+  "hoist": false,
+  "position": 59,
+  "permissions": "49152",
+  "mentionable": false,
+  "managed": false,
+  "icon": null,
+  "unicode_emoji": null
+}

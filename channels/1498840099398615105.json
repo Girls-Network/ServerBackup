@@ -1,0 +1,41 @@
+{
+  "id": "1498840099398615105",
+  "name": "『🦥』VIP Lounge",
+  "kind": "voice",
+  "type": 2,
+  "parent_id": "1498840087692181585",
+  "position": 0,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": 64000,
+  "user_limit": 0,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1024"
+    },
+    {
+      "id": "1498839948873302067",
+      "kind": "role",
+      "allow": "0",
+      "deny": "377957125121"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "1024",
+      "deny": "0"
+    },
+    {
+      "id": "1498839960617222224",
+      "kind": "role",
+      "allow": "1051648",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

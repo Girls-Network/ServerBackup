@@ -1,0 +1,19 @@
+{
+  "id": "1498990652975874048",
+  "name": "📊 SERVER STATS 📊",
+  "position": 0,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "1024",
+      "deny": "1050624"
+    },
+    {
+      "id": "458276816071950337",
+      "kind": "member",
+      "allow": "1068048",
+      "deny": "0"
+    }
+  ]
+}

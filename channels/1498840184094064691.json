@@ -1,0 +1,59 @@
+{
+  "id": "1498840184094064691",
+  "name": "assets",
+  "kind": "text",
+  "type": 0,
+  "parent_id": "1498840093677584396",
+  "position": 0,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    },
+    {
+      "id": "1498839943089361027",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "1498839948873302067",
+      "kind": "role",
+      "allow": "0",
+      "deny": "377957125121"
+    },
+    {
+      "id": "1498839953746956428",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "1498839954976014588",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "1498839983245754369",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1499573023068520489",
+  "name": "『🎵』user-music",
+  "kind": "text",
+  "type": 0,
+  "parent_id": "1498840089583685652",
+  "position": 7,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    },
+    {
+      "id": "1498839948873302067",
+      "kind": "role",
+      "allow": "0",
+      "deny": "377957125121"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "1498839982394179644",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "356268235697553409",
+      "kind": "member",
+      "allow": "0",
+      "deny": "1024"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

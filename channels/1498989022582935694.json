@@ -1,0 +1,29 @@
+{
+  "id": "1498989022582935694",
+  "name": "Members: 171",
+  "kind": "voice",
+  "type": 2,
+  "parent_id": "1498990652975874048",
+  "position": 0,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": 64000,
+  "user_limit": 0,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "1024",
+      "deny": "1050624"
+    },
+    {
+      "id": "458276816071950337",
+      "kind": "member",
+      "allow": "1068048",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

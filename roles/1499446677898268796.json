@@ -1,0 +1,12 @@
+{
+  "id": "1499446677898268796",
+  "name": "TTS Bot",
+  "color": 0,
+  "hoist": false,
+  "position": 111,
+  "permissions": "274914987080",
+  "mentionable": false,
+  "managed": true,
+  "icon": null,
+  "unicode_emoji": null
+}

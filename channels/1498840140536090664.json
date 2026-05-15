@@ -1,0 +1,47 @@
+{
+  "id": "1498840140536090664",
+  "name": "『💲』free-games",
+  "kind": "text",
+  "type": 0,
+  "parent_id": "1498840084957626429",
+  "position": 9,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    },
+    {
+      "id": "1498839948873302067",
+      "kind": "role",
+      "allow": "0",
+      "deny": "377957125121"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "1498839982394179644",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "2048"
+    },
+    {
+      "id": "1498839983245754369",
+      "kind": "role",
+      "allow": "1024",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

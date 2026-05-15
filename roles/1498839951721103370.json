@@ -1,0 +1,12 @@
+{
+  "id": "1498839951721103370",
+  "name": "manage role perms",
+  "color": 0,
+  "hoist": false,
+  "position": 120,
+  "permissions": "268435456",
+  "mentionable": false,
+  "managed": false,
+  "icon": null,
+  "unicode_emoji": null
+}

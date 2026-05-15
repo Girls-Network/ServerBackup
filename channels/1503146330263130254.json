@@ -1,0 +1,16 @@
+{
+  "id": "1503146330263130254",
+  "name": "Interrogation",
+  "kind": "voice",
+  "type": 2,
+  "parent_id": null,
+  "position": 0,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": 64000,
+  "user_limit": 0,
+  "rtc_region": null,
+  "permission_overwrites": [],
+  "default_auto_archive_duration": null
+}

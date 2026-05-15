@@ -1,0 +1,12 @@
+{
+  "id": "1498840031648022618",
+  "name": "Chat Revive Pings",
+  "color": 0,
+  "hoist": false,
+  "position": 48,
+  "permissions": "0",
+  "mentionable": false,
+  "managed": false,
+  "icon": null,
+  "unicode_emoji": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1498840112346300518",
+  "name": "『🌻』introductions",
+  "kind": "text",
+  "type": 0,
+  "parent_id": "1498840081954377759",
+  "position": 4,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "3136"
+    },
+    {
+      "id": "1498839948873302067",
+      "kind": "role",
+      "allow": "0",
+      "deny": "377957125121"
+    },
+    {
+      "id": "1498839959145287830",
+      "kind": "role",
+      "allow": "0",
+      "deny": "70650433"
+    },
+    {
+      "id": "1498839982394179644",
+      "kind": "role",
+      "allow": "1051648",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}

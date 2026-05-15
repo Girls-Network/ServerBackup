@@ -1,0 +1,12 @@
+{
+  "id": "1499036284415381528",
+  "name": "SecurityBot",
+  "color": 0,
+  "hoist": false,
+  "position": 127,
+  "permissions": "8",
+  "mentionable": false,
+  "managed": true,
+  "icon": null,
+  "unicode_emoji": null
+}

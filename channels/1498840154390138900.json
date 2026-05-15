@@ -1,0 +1,35 @@
+{
+  "id": "1498840154390138900",
+  "name": "『📭』posts",
+  "kind": "forum",
+  "type": 15,
+  "parent_id": "1498840088606539821",
+  "position": 5,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "52224"
+    },
+    {
+      "id": "1498839982394179644",
+      "kind": "role",
+      "allow": "274877959168",
+      "deny": "0"
+    },
+    {
+      "id": "1498839983245754369",
+      "kind": "role",
+      "allow": "274878958656",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}
