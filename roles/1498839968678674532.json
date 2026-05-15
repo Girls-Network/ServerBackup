@@ -3,7 +3,7 @@
   "name": "— Custom Booster Role —",
   "color": 0,
   "hoist": true,
-  "position": 99,
+  "position": 98,
   "permissions": "0",
   "mentionable": false,
   "managed": false,
