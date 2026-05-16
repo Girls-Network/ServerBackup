@@ -3,7 +3,7 @@
   "name": "Announcement Pings",
   "color": 0,
   "hoist": false,
-  "position": 49,
+  "position": 48,
   "permissions": "0",
   "mentionable": false,
   "managed": false,

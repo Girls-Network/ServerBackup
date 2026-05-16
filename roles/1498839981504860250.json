@@ -3,7 +3,7 @@
   "name": "Vent Access",
   "color": 0,
   "hoist": false,
-  "position": 60,
+  "position": 59,
   "permissions": "0",
   "mentionable": false,
   "managed": false,

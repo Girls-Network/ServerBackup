@@ -3,7 +3,7 @@
   "name": "DMs/Ask",
   "color": 0,
   "hoist": false,
-  "position": 33,
+  "position": 32,
   "permissions": "0",
   "mentionable": false,
   "managed": false,

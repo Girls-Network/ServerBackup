@@ -3,7 +3,7 @@
   "name": "──── DM Status Roles",
   "color": 16711680,
   "hoist": false,
-  "position": 36,
+  "position": 35,
   "permissions": "0",
   "mentionable": false,
   "managed": false,

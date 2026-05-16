@@ -3,7 +3,7 @@
   "name": "Role Mention Perms",
   "color": 0,
   "hoist": false,
-  "position": 13,
+  "position": 12,
   "permissions": "131072",
   "mentionable": false,
   "managed": false,

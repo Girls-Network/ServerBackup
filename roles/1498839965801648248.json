@@ -3,7 +3,7 @@
   "name": "— Custom Roles —",
   "color": 10070709,
   "hoist": true,
-  "position": 104,
+  "position": 103,
   "permissions": "0",
   "mentionable": false,
   "managed": false,

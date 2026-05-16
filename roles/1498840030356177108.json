@@ -3,7 +3,7 @@
   "name": "Giveaway Pings",
   "color": 0,
   "hoist": false,
-  "position": 51,
+  "position": 50,
   "permissions": "0",
   "mentionable": false,
   "managed": false,
