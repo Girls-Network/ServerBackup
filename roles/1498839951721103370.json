@@ -3,7 +3,7 @@
   "name": "manage role perms",
   "color": 0,
   "hoist": false,
-  "position": 120,
+  "position": 121,
   "permissions": "268435456",
   "mentionable": false,
   "managed": false,

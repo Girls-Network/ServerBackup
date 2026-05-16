@@ -3,7 +3,7 @@
   "name": "exclusive perms",
   "color": 0,
   "hoist": false,
-  "position": 119,
+  "position": 120,
   "permissions": "16",
   "mentionable": false,
   "managed": false,

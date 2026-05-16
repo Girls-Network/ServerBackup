@@ -3,7 +3,7 @@
   "name": "───── Ping Roles",
   "color": 16711680,
   "hoist": false,
-  "position": 50,
+  "position": 51,
   "permissions": "0",
   "mentionable": false,
   "managed": false,

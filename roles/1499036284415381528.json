@@ -3,7 +3,7 @@
   "name": "SecurityBot",
   "color": 0,
   "hoist": false,
-  "position": 127,
+  "position": 128,
   "permissions": "8",
   "mentionable": false,
   "managed": true,
