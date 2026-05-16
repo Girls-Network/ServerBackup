@@ -3,7 +3,7 @@
   "name": "image perms bypass",
   "color": 0,
   "hoist": false,
-  "position": 60,
+  "position": 61,
   "permissions": "49152",
   "mentionable": false,
   "managed": false,

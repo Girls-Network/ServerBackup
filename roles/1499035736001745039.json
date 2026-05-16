@@ -3,7 +3,7 @@
   "name": "BanSyncing",
   "color": 0,
   "hoist": false,
-  "position": 110,
+  "position": 111,
   "permissions": "1099511645358",
   "mentionable": false,
   "managed": true,

@@ -3,7 +3,7 @@
   "name": ".fmbot",
   "color": 0,
   "hoist": false,
-  "position": 2,
+  "position": 3,
   "permissions": "275415092288",
   "mentionable": false,
   "managed": true,

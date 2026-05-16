@@ -3,7 +3,7 @@
   "name": "ServerStats",
   "color": 0,
   "hoist": false,
-  "position": 6,
+  "position": 7,
   "permissions": "1166352",
   "mentionable": false,
   "managed": true,

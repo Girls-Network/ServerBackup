@@ -3,7 +3,7 @@
   "name": "Slowmode Bypass",
   "color": 0,
   "hoist": false,
-  "position": 11,
+  "position": 12,
   "permissions": "8192",
   "mentionable": false,
   "managed": false,

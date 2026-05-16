@@ -3,7 +3,7 @@
   "name": "Chat Revive Pings",
   "color": 0,
   "hoist": false,
-  "position": 49,
+  "position": 50,
   "permissions": "0",
   "mentionable": false,
   "managed": false,

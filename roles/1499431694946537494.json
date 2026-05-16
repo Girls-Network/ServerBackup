@@ -3,7 +3,7 @@
   "name": "GayBot",
   "color": 0,
   "hoist": false,
-  "position": 5,
+  "position": 6,
   "permissions": "274877926464",
   "mentionable": false,
   "managed": true,
