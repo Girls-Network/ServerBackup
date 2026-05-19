@@ -12,7 +12,7 @@
   "mfa_level": 0,
   "premium_tier": 2,
   "preferred_locale": "en-US",
-  "afk_channel_id": null,
+  "afk_channel_id": "1506353887836373176",
   "afk_timeout": 300,
   "system_channel_id": "1498840103919943790",
   "system_channel_flags": 12,
