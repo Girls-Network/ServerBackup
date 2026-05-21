@@ -3,7 +3,7 @@
   "name": "Ko-fi supporter (Standard)",
   "color": 0,
   "hoist": true,
-  "position": 104,
+  "position": 105,
   "permissions": "0",
   "mentionable": false,
   "managed": false,
