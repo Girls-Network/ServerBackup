@@ -1,7 +1,9 @@
 {
   "id": "1498940926645768223",
   "name": "Pumpkin",
-  "color": 14070392,
+  "primary_color": 14070392,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 72,
   "permissions": "0",

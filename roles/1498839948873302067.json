@@ -1,7 +1,9 @@
 {
   "id": "1498839948873302067",
   "name": "Quarantine",
-  "color": 11765828,
+  "primary_color": 11765828,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 123,
   "permissions": "0",

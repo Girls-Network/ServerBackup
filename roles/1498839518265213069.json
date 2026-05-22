@@ -1,7 +1,9 @@
 {
   "id": "1498839518265213069",
   "name": "@everyone",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 0,
   "permissions": "968551107136",

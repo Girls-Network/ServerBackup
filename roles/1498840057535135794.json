@@ -1,7 +1,9 @@
 {
   "id": "1498840057535135794",
   "name": "Gay",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 22,
   "permissions": "0",

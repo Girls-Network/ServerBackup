@@ -1,7 +1,9 @@
 {
   "id": "1498936819046416425",
   "name": "Staff On Leave",
-  "color": 5592405,
+  "primary_color": 5592405,
+  "secondary_color": 2236962,
+  "tertiary_color": null,
   "hoist": true,
   "position": 108,
   "permissions": "4503599627370496",

@@ -1,7 +1,9 @@
 {
   "id": "1498940893196058694",
   "name": "Green Sea",
-  "color": 9288370,
+  "primary_color": 9288370,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 88,
   "permissions": "0",

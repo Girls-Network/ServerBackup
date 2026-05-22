@@ -1,7 +1,9 @@
 {
   "id": "1499053991500452020",
   "name": "Fae/Faer",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 39,
   "permissions": "0",

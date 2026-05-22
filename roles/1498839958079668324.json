@@ -1,7 +1,9 @@
 {
   "id": "1498839958079668324",
   "name": "『👮』Helper",
-  "color": 16050457,
+  "primary_color": 16050457,
+  "secondary_color": 16711931,
+  "tertiary_color": null,
   "hoist": true,
   "position": 116,
   "permissions": "4504699302584320",

@@ -1,7 +1,9 @@
 {
   "id": "1498940918949216377",
   "name": "Rose",
-  "color": 13595764,
+  "primary_color": 13595764,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 76,
   "permissions": "0",

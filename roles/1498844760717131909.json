@@ -1,7 +1,9 @@
 {
   "id": "1498844760717131909",
   "name": "Server Booster",
-  "color": 16023551,
+  "primary_color": 16023551,
+  "secondary_color": 11816191,
+  "tertiary_color": null,
   "hoist": true,
   "position": 96,
   "permissions": "968551107137",

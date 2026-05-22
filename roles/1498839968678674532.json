@@ -1,7 +1,9 @@
 {
   "id": "1498839968678674532",
   "name": "— Custom Booster Role —",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": true,
   "position": 100,
   "permissions": "0",

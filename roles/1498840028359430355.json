@@ -1,7 +1,9 @@
 {
   "id": "1498840028359430355",
   "name": "13-15",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 53,
   "permissions": "0",

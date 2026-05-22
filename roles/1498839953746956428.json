@@ -1,7 +1,9 @@
 {
   "id": "1498839953746956428",
   "name": "『🔨』Moderator",
-  "color": 6424480,
+  "primary_color": 6424480,
+  "secondary_color": 16744960,
+  "tertiary_color": null,
   "hoist": true,
   "position": 120,
   "permissions": "1106191573703",

@@ -1,7 +1,9 @@
 {
   "id": "1498940922724094068",
   "name": "Orange",
-  "color": 14067589,
+  "primary_color": 14067589,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 74,
   "permissions": "0",

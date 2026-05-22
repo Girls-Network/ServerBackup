@@ -1,7 +1,9 @@
 {
   "id": "1498839965801648248",
   "name": "— Custom Roles —",
-  "color": 10070709,
+  "primary_color": 10070709,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": true,
   "position": 104,
   "permissions": "0",

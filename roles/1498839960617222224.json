@@ -1,7 +1,9 @@
 {
   "id": "1498839960617222224",
   "name": "Retired Staff",
-  "color": 11127295,
+  "primary_color": 11127295,
+  "secondary_color": 16759788,
+  "tertiary_color": 16761760,
   "hoist": true,
   "position": 107,
   "permissions": "4503599627370496",

@@ -1,7 +1,9 @@
 {
   "id": "1498839977822392370",
   "name": "『🎬』YouTuber",
-  "color": 16711680,
+  "primary_color": 16711680,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": true,
   "position": 94,
   "permissions": "6545588800",

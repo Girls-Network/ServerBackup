@@ -1,7 +1,9 @@
 {
   "id": "1498839976765423748",
   "name": "『💙』Friends",
-  "color": 16711935,
+  "primary_color": 16711935,
+  "secondary_color": 1657033,
+  "tertiary_color": null,
   "hoist": true,
   "position": 95,
   "permissions": "262144",

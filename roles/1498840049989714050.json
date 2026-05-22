@@ -1,7 +1,9 @@
 {
   "id": "1498840049989714050",
   "name": "—— Gender/Sexuality Roles",
-  "color": 16711680,
+  "primary_color": 16711680,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 31,
   "permissions": "0",

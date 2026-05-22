@@ -1,7 +1,9 @@
 {
   "id": "1498840010672050239",
   "name": "┈┈┈ Level Roles ┈┈┈",
-  "color": 18687,
+  "primary_color": 18687,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 68,
   "permissions": "6545588801",

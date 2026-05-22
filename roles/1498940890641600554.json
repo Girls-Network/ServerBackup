@@ -1,7 +1,9 @@
 {
   "id": "1498940890641600554",
   "name": "Turquoise",
-  "color": 11331804,
+  "primary_color": 11331804,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 89,
   "permissions": "0",

@@ -1,7 +1,9 @@
 {
   "id": "1498940908194758708",
   "name": "Linen",
-  "color": 16433369,
+  "primary_color": 16433369,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 81,
   "permissions": "0",

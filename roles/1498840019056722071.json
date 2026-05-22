@@ -1,7 +1,9 @@
 {
   "id": "1498840019056722071",
   "name": "『🥇』 Gold (Level 15)",
-  "color": 16766720,
+  "primary_color": 16766720,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 63,
   "permissions": "6478479937",

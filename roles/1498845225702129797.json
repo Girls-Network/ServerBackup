@@ -1,7 +1,9 @@
 {
   "id": "1498845225702129797",
   "name": "YAGPDB.xyz",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 115,
   "permissions": "1516122532351",

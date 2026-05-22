@@ -1,7 +1,9 @@
 {
   "id": "1499136226781954100",
   "name": "MRRP MRRP MRROWWW",
-  "color": 9124778,
+  "primary_color": 9124778,
+  "secondary_color": 15616255,
+  "tertiary_color": null,
   "hoist": false,
   "position": 101,
   "permissions": "0",

@@ -1,7 +1,9 @@
 {
   "id": "1498839946671292466",
   "name": "『🛡️』Administrator",
-  "color": 7077863,
+  "primary_color": 7077863,
+  "secondary_color": 2835168,
+  "tertiary_color": null,
   "hoist": true,
   "position": 124,
   "permissions": "8837864262991815",

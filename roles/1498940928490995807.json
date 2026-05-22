@@ -1,7 +1,9 @@
 {
   "id": "1498940928490995807",
   "name": "Light Gray",
-  "color": 14410209,
+  "primary_color": 14410209,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 71,
   "permissions": "0",

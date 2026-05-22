@@ -1,7 +1,9 @@
 {
   "id": "1498940903975550988",
   "name": "Amethyst",
-  "color": 14534119,
+  "primary_color": 14534119,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 83,
   "permissions": "0",

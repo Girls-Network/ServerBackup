@@ -1,7 +1,9 @@
 {
   "id": "1498891345643835522",
   "name": "Cirno the Ice Fairy",
-  "color": 5025232,
+  "primary_color": 5025232,
+  "secondary_color": 11729407,
+  "tertiary_color": null,
   "hoist": false,
   "position": 102,
   "permissions": "0",

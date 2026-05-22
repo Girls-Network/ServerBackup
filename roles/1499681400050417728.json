@@ -1,7 +1,9 @@
 {
   "id": "1499681400050417728",
   "name": ".fmbot",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 2,
   "permissions": "275415092288",

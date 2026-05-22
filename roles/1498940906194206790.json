@@ -1,7 +1,9 @@
 {
   "id": "1498940906194206790",
   "name": "Wisteria",
-  "color": 12098498,
+  "primary_color": 12098498,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 82,
   "permissions": "0",

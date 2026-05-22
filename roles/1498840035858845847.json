@@ -1,7 +1,9 @@
 {
   "id": "1498840035858845847",
   "name": "───── Pronoun Roles",
-  "color": 16711680,
+  "primary_color": 16711680,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 44,
   "permissions": "0",

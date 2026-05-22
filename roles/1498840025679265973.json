@@ -1,7 +1,9 @@
 {
   "id": "1498840025679265973",
   "name": "───── Age Roles",
-  "color": 16711680,
+  "primary_color": 16711680,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 56,
   "permissions": "0",

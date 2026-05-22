@@ -1,7 +1,9 @@
 {
   "id": "1498940912183803989",
   "name": "Alizarin",
-  "color": 16302522,
+  "primary_color": 16302522,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 79,
   "permissions": "0",

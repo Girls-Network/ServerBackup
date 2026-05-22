@@ -1,7 +1,9 @@
 {
   "id": "1498937509001035859",
   "name": "Free Stuff",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 8,
   "permissions": "412854176832",

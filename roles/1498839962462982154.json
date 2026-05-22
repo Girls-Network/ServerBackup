@@ -1,7 +1,9 @@
 {
   "id": "1498839962462982154",
   "name": "Ko-Fi Supporter (Monthly)",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 106,
   "permissions": "0",

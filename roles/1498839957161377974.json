@@ -1,7 +1,9 @@
 {
   "id": "1498839957161377974",
   "name": "『⚙️』Staff [PING FOR HELP]",
-  "color": 6424480,
+  "primary_color": 6424480,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 118,
   "permissions": "4503606173090497",

@@ -1,7 +1,9 @@
 {
   "id": "1502454485996535808",
   "name": "Omniflux",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 16,
   "permissions": "0",

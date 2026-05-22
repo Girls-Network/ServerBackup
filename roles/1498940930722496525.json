@@ -1,7 +1,9 @@
 {
   "id": "1498940930722496525",
   "name": "Dark Air",
-  "color": 11251888,
+  "primary_color": 11251888,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 70,
   "permissions": "0",

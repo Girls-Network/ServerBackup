@@ -1,7 +1,9 @@
 {
   "id": "1498940924774977649",
   "name": "Sun Flower",
-  "color": 16444327,
+  "primary_color": 16444327,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 73,
   "permissions": "0",

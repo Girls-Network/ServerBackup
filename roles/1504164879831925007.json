@@ -1,7 +1,9 @@
 {
   "id": "1504164879831925007",
   "name": "Camilla²",
-  "color": 8061183,
+  "primary_color": 8061183,
+  "secondary_color": 16711769,
+  "tertiary_color": null,
   "hoist": false,
   "position": 99,
   "permissions": "0",

@@ -1,7 +1,9 @@
 {
   "id": "1498839954976014588",
   "name": "『🔨』Trainee Moderator",
-  "color": 43519,
+  "primary_color": 43519,
+  "secondary_color": 9174784,
+  "tertiary_color": null,
   "hoist": true,
   "position": 119,
   "permissions": "1116922503553",

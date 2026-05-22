@@ -1,7 +1,9 @@
 {
   "id": "1498940921004163102",
   "name": "Carrot",
-  "color": 16241327,
+  "primary_color": 16241327,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 75,
   "permissions": "0",

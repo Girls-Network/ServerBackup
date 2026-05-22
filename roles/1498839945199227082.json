@@ -1,7 +1,9 @@
 {
   "id": "1498839945199227082",
   "name": "『🎖』Head Manager",
-  "color": 11817952,
+  "primary_color": 11817952,
+  "secondary_color": 13571682,
+  "tertiary_color": null,
   "hoist": true,
   "position": 128,
   "permissions": "6545588809",

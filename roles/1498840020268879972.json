@@ -1,7 +1,9 @@
 {
   "id": "1498840020268879972",
   "name": "『🥈』 Silver (Level 10)",
-  "color": 12632256,
+  "primary_color": 12632256,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 62,
   "permissions": "6478479937",

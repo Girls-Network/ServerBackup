@@ -1,7 +1,9 @@
 {
   "id": "1498840030356177108",
   "name": "Giveaway Pings",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 50,
   "permissions": "0",

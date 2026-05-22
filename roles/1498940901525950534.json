@@ -1,7 +1,9 @@
 {
   "id": "1498940901525950534",
   "name": "Belize",
-  "color": 10073287,
+  "primary_color": 10073287,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 84,
   "permissions": "0",

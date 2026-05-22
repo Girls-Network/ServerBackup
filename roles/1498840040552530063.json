@@ -1,7 +1,9 @@
 {
   "id": "1498840040552530063",
   "name": "They/Them",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 41,
   "permissions": "0",

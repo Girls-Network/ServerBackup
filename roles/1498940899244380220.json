@@ -1,7 +1,9 @@
 {
   "id": "1498940899244380220",
   "name": "River",
-  "color": 12049395,
+  "primary_color": 12049395,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 85,
   "permissions": "0",

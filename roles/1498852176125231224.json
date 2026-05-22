@@ -1,7 +1,9 @@
 {
   "id": "1498852176125231224",
   "name": "Management [Ping for Assistance]",
-  "color": 9854847,
+  "primary_color": 9854847,
+  "secondary_color": 16755420,
+  "tertiary_color": null,
   "hoist": false,
   "position": 125,
   "permissions": "0",

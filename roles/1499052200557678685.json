@@ -1,7 +1,9 @@
 {
   "id": "1499052200557678685",
   "name": "Under 13",
-  "color": 16711680,
+  "primary_color": 16711680,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 52,
   "permissions": "0",

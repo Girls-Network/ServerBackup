@@ -1,7 +1,9 @@
 {
   "id": "1498839944137801789",
   "name": "『👑』Co-Owner",
-  "color": 16099768,
+  "primary_color": 16099768,
+  "secondary_color": 9632381,
+  "tertiary_color": null,
   "hoist": true,
   "position": 130,
   "permissions": "8",

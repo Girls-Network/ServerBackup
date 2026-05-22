@@ -1,7 +1,9 @@
 {
   "id": "1504851368245198989",
   "name": "Murder Drone",
-  "color": 723723,
+  "primary_color": 723723,
+  "secondary_color": 16183022,
+  "tertiary_color": null,
   "hoist": false,
   "position": 103,
   "permissions": "0",

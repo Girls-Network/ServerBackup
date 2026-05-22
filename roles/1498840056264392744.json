@@ -1,7 +1,9 @@
 {
   "id": "1498840056264392744",
   "name": "Bisexual",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 23,
   "permissions": "0",

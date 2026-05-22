@@ -1,7 +1,9 @@
 {
   "id": "1498840011783671989",
   "name": "『🌌』 Galactic (Level 50)",
-  "color": 3681776,
+  "primary_color": 3681776,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 66,
   "permissions": "6478479937",

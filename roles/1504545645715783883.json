@@ -1,7 +1,9 @@
 {
   "id": "1504545645715783883",
   "name": "Spoiler Zone Access",
-  "color": 0,
+  "primary_color": 0,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": false,
   "position": 57,
   "permissions": "0",

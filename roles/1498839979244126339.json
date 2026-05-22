@@ -1,7 +1,9 @@
 {
   "id": "1498839979244126339",
   "name": "『📺』Twitch Streamer",
-  "color": 7419530,
+  "primary_color": 7419530,
+  "secondary_color": null,
+  "tertiary_color": null,
   "hoist": true,
   "position": 93,
   "permissions": "6545588800",
