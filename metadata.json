@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "captured_at": 1779473802660,
+  "captured_at": 1779481539268,
   "counts": {
     "roles": 134,
     "categories": 14,
@@ -8,6 +8,6 @@
     "emojis": 41,
     "stickers": 15,
     "bans": 631,
-    "webhooks": 78
+    "webhooks": 79
   }
 }
