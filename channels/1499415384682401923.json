@@ -1,11 +1,11 @@
 {
   "id": "1499415384682401923",
-  "name": "『💬』general-two",
+  "name": "『💬』general-two-electric-boogalo",
   "kind": "text",
   "type": 0,
   "parent_id": "1498840088606539821",
   "position": 1,
-  "topic": null,
+  "topic": "",
   "nsfw": false,
   "rate_limit_per_user": 5,
   "bitrate": null,
