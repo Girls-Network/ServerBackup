@@ -1,14 +1,14 @@
 {
-  "id": "1498839963372884090",
-  "name": "Ko-fi supporter (Standard)",
+  "id": "1507704375269916682",
+  "name": "It's My Birthday!",
   "primary_color": 0,
   "secondary_color": null,
   "tertiary_color": null,
-  "hoist": true,
-  "position": 106,
+  "hoist": false,
+  "position": 69,
   "permissions": "0",
   "mentionable": false,
   "managed": false,
-  "icon": null,
+  "icon": "e1444d5d3626955e74cf97c588a35e04",
   "unicode_emoji": null
 }
