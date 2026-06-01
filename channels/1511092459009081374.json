@@ -1,13 +1,13 @@
 {
-  "id": "1498840161507606560",
-  "name": "『🎵』fm-music",
+  "id": "1511092459009081374",
+  "name": "『⚙️』coding",
   "kind": "text",
   "type": 0,
   "parent_id": "1498840089583685652",
-  "position": 9,
+  "position": 7,
   "topic": null,
   "nsfw": false,
-  "rate_limit_per_user": 5,
+  "rate_limit_per_user": 0,
   "bitrate": null,
   "user_limit": null,
   "rtc_region": null,
@@ -34,12 +34,6 @@
       "id": "1498839982394179644",
       "kind": "role",
       "allow": "1049600",
-      "deny": "0"
-    },
-    {
-      "id": "356268235697553409",
-      "kind": "member",
-      "allow": "19456",
       "deny": "0"
     }
   ],
