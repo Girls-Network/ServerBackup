@@ -29,12 +29,6 @@
       "kind": "role",
       "allow": "0",
       "deny": "1024"
-    },
-    {
-      "id": "1498844760717131909",
-      "kind": "role",
-      "allow": "2147485696",
-      "deny": "0"
     }
   ],
   "default_auto_archive_duration": null
