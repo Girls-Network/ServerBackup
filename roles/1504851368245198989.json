@@ -4,7 +4,7 @@
   "primary_color": 723723,
   "secondary_color": 16183022,
   "tertiary_color": null,
-  "hoist": false,
+  "hoist": true,
   "position": 104,
   "permissions": "2147483648",
   "mentionable": false,
