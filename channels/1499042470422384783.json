@@ -17,6 +17,12 @@
       "kind": "role",
       "allow": "3072",
       "deny": "64"
+    },
+    {
+      "id": "1498839983245754369",
+      "kind": "role",
+      "allow": "0",
+      "deny": "3072"
     }
   ],
   "default_auto_archive_duration": null
