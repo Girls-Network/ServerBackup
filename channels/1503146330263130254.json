@@ -11,6 +11,13 @@
   "bitrate": 64000,
   "user_limit": 0,
   "rtc_region": null,
-  "permission_overwrites": [],
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1048576"
+    }
+  ],
   "default_auto_archive_duration": null
 }
