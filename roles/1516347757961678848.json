@@ -6,7 +6,7 @@
   "tertiary_color": null,
   "hoist": false,
   "position": 99,
-  "permissions": "0",
+  "permissions": "16384",
   "mentionable": false,
   "managed": false,
   "icon": null,
