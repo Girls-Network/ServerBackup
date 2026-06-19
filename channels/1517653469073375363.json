@@ -1,0 +1,59 @@
+{
+  "id": "1517653469073375363",
+  "name": "a",
+  "kind": "text",
+  "type": 0,
+  "parent_id": "1498840092981334131",
+  "position": 13,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "268446737"
+    },
+    {
+      "id": "1498839948873302067",
+      "kind": "role",
+      "allow": "0",
+      "deny": "377957125121"
+    },
+    {
+      "id": "1498839953746956428",
+      "kind": "role",
+      "allow": "1024",
+      "deny": "0"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "3149312",
+      "deny": "0"
+    },
+    {
+      "id": "1498839959145287830",
+      "kind": "role",
+      "allow": "0",
+      "deny": "70650433"
+    },
+    {
+      "id": "1499446677898268796",
+      "kind": "role",
+      "allow": "1024",
+      "deny": "0"
+    },
+    {
+      "id": "204255221017214977",
+      "kind": "member",
+      "allow": "3072",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}
