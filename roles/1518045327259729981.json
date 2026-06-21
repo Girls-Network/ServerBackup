@@ -1,14 +1,14 @@
 {
-  "id": "1498839960617222224",
-  "name": "Retired Staff",
+  "id": "1518045327259729981",
+  "name": "『🍩』Bot Developer",
   "primary_color": 11127295,
   "secondary_color": 16759788,
   "tertiary_color": 16761760,
   "hoist": true,
-  "position": 110,
-  "permissions": "4503599627370496",
+  "position": 122,
+  "permissions": "536870944",
   "mentionable": false,
   "managed": false,
-  "icon": "312235b5b59528f78078bf2d8d9ad155",
+  "icon": "d7b5d934b7c0d5d69e000a8c9a00b001",
   "unicode_emoji": null
 }
