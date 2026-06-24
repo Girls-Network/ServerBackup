@@ -1,10 +1,10 @@
 {
-  "id": "1498840200141471815",
-  "name": "modlogs",
+  "id": "1519275203035795617",
+  "name": "role-permissions",
   "kind": "text",
   "type": 0,
   "parent_id": "1498840096655282288",
-  "position": 8,
+  "position": 7,
   "topic": null,
   "nsfw": false,
   "rate_limit_per_user": 0,
