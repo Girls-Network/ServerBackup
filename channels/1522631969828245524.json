@@ -1,0 +1,35 @@
+{
+  "id": "1522631969828245524",
+  "name": "『🤖』helper-bot-commands",
+  "kind": "text",
+  "type": 0,
+  "parent_id": "1498852057778618481",
+  "position": 5,
+  "topic": null,
+  "nsfw": false,
+  "rate_limit_per_user": 0,
+  "bitrate": null,
+  "user_limit": null,
+  "rtc_region": null,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    },
+    {
+      "id": "1498839958079668324",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    }
+  ],
+  "default_auto_archive_duration": null
+}
