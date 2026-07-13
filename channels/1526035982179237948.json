@@ -1,11 +1,11 @@
 {
   "id": "1526035982179237948",
-  "name": "『📣』game-nights",
+  "name": "『📣』game-nights-wip",
   "kind": "text",
   "type": 0,
   "parent_id": "1498840084957626429",
   "position": 2,
-  "topic": null,
+  "topic": "",
   "nsfw": false,
   "rate_limit_per_user": 0,
   "bitrate": null,
