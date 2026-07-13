@@ -1,10 +1,10 @@
 {
-  "id": "1498840126770643086",
-  "name": "『👮』helper-applications",
+  "id": "1526035982179237948",
+  "name": "『📣』game-nights",
   "kind": "text",
   "type": 0,
   "parent_id": "1498840084957626429",
-  "position": 5,
+  "position": 2,
   "topic": null,
   "nsfw": false,
   "rate_limit_per_user": 0,
@@ -16,24 +16,12 @@
       "id": "1498839518265213069",
       "kind": "role",
       "allow": "0",
-      "deny": "3136"
+      "deny": "1024"
     },
     {
-      "id": "1498839948873302067",
+      "id": "1498852176125231224",
       "kind": "role",
-      "allow": "0",
-      "deny": "377957125121"
-    },
-    {
-      "id": "1498839959145287830",
-      "kind": "role",
-      "allow": "0",
-      "deny": "70650433"
-    },
-    {
-      "id": "1498839982394179644",
-      "kind": "role",
-      "allow": "1049600",
+      "allow": "1024",
       "deny": "0"
     }
   ],
