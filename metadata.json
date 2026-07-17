@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "captured_at": 1784260411908,
+  "captured_at": 1784305101635,
   "counts": {
     "roles": 143,
     "categories": 14,
     "channels": 100,
     "emojis": 46,
     "stickers": 16,
-    "bans": 658,
+    "bans": 659,
     "webhooks": 92
   }
 }
