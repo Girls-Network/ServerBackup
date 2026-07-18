@@ -1,6 +1,6 @@
 {
   "id": "1526035982179237948",
-  "name": "『🎮』game-nights-wip",
+  "name": "『🎮』game-nights",
   "kind": "text",
   "type": 0,
   "parent_id": "1528085745296736419",
@@ -17,6 +17,12 @@
       "kind": "role",
       "allow": "0",
       "deny": "1049600"
+    },
+    {
+      "id": "1498839982394179644",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
     }
   ],
   "default_auto_archive_duration": null
