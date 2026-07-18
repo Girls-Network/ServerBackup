@@ -1,0 +1,13 @@
+{
+  "id": "1528085745296736419",
+  "name": "Game Nights WIP",
+  "position": 8,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    }
+  ]
+}

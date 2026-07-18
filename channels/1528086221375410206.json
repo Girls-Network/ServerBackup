@@ -1,15 +1,15 @@
 {
-  "id": "1526035982179237948",
-  "name": "『🎮』game-nights-wip",
-  "kind": "text",
-  "type": 0,
+  "id": "1528086221375410206",
+  "name": "Game Nights VC 1",
+  "kind": "voice",
+  "type": 2,
   "parent_id": "1528085745296736419",
   "position": 0,
-  "topic": "",
+  "topic": null,
   "nsfw": false,
   "rate_limit_per_user": 0,
-  "bitrate": null,
-  "user_limit": null,
+  "bitrate": 64000,
+  "user_limit": 0,
   "rtc_region": null,
   "permission_overwrites": [
     {
