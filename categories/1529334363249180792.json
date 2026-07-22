@@ -1,0 +1,19 @@
+{
+  "id": "1529334363249180792",
+  "name": "archived channels",
+  "position": 15,
+  "permission_overwrites": [
+    {
+      "id": "1498839518265213069",
+      "kind": "role",
+      "allow": "0",
+      "deny": "1049600"
+    },
+    {
+      "id": "1498839957161377974",
+      "kind": "role",
+      "allow": "1049600",
+      "deny": "0"
+    }
+  ]
+}
