@@ -13,12 +13,6 @@
   "rtc_region": null,
   "permission_overwrites": [
     {
-      "id": "1009889543878611016",
-      "kind": "member",
-      "allow": "3072",
-      "deny": "0"
-    },
-    {
       "id": "1498839518265213069",
       "kind": "role",
       "allow": "0",
