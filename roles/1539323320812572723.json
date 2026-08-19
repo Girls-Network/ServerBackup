@@ -1,14 +1,14 @@
 {
-  "id": "1498839951721103370",
-  "name": "manage role perms",
+  "id": "1539323320812572723",
+  "name": "Captcha.bot",
   "primary_color": 0,
   "secondary_color": null,
   "tertiary_color": null,
   "hoist": false,
-  "position": 131,
-  "permissions": "268435456",
+  "position": 1,
+  "permissions": "268561430",
   "mentionable": false,
-  "managed": false,
+  "managed": true,
   "icon": null,
   "unicode_emoji": null
 }
