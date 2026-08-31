@@ -1,11 +1,11 @@
 {
   "id": "1498840178536747018",
-  "name": "『👮』helpers-chat",
+  "name": "『👮』staff-yuri-channel",
   "kind": "text",
   "type": 0,
   "parent_id": "1498852057778618481",
   "position": 1,
-  "topic": null,
+  "topic": "",
   "nsfw": false,
   "rate_limit_per_user": 0,
   "bitrate": null,
